@@ -76,3 +76,7 @@ La carte est organisée en plusieurs blocs fonctionnels :
 
 ## Objectif
 Développer une carte de contrôle modulaire permettant la commande d’un bras robotique avec moteurs pas à pas et servomoteurs.
+
+# Auteur
+
+Junior Kabulo
